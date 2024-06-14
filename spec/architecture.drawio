@@ -1,0 +1,163 @@
+<mxfile host="65bd71144e">
+    <diagram id="1x85sbXGptENEbU0obfB" name="Page-1">
+        <mxGraphModel dx="2130" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+                    <mxGeometry x="820" y="70" width="120" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-40" y="80" width="480" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="6" target="25" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Template Database&lt;br&gt;(JS Impl.)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="90" width="150" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-40" y="280" width="480" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Browser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-110" y="125" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Zodiac Engine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-130" y="350" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="21" target="25" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Template Database&lt;br&gt;(Zig Impl.)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="290" width="150" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;b&gt;BUILD&lt;br&gt;TIME&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="80" width="50" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="23" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="830" y="100.16666666666674" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="Component&lt;br&gt;Template" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="25" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="670" y="120.16666666666674" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="48" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="25" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="670" y="160.16666666666674" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="49" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="25" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="670" y="200.16666666666674" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="Template&lt;br&gt;List" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="80" width="80" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="29" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="830" y="160.16666666666674" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="Component&lt;br&gt;Template" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="140" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="30" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="830" y="220.16666666666674" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" value="Component&lt;br&gt;Template" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="200" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Element" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="80" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Element" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="100" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Element" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="120" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Element" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="140" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Element" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="160" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Element" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="180" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Element" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="200" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Element" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="220" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="830" y="240" as="sourcePoint"/>
+                        <mxPoint x="830" y="80" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="50" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="670" y="240" as="sourcePoint"/>
+                        <mxPoint x="670" y="80" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="53" value="&lt;h1&gt;Mounting&lt;/h1&gt;&lt;div&gt;When creating a component, or many components, the Zodiac engine can reference &quot;templates&quot; that are created on both the frontend and the backend. This template allows for quick instantiation of many elements.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Each template is given a unique ID to reference during instantiation and a &quot;size&quot;, which is the total number of children in it.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This means every instance of a template, and its individual elements, can be referenced by an integer that is incremented by the size of the template.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A mount point is a child of an element in the template that another template instance can attach to.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To instantiate a template, the Zodiac engine references a mount point by its ID.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="960" y="70" width="310" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="54" target="64" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="54" target="66" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="54" target="68" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="On Frame" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="-30" y="290" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="55" target="54" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="55" target="54" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="55" target="54" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="Animation Frame&lt;br&gt;Loop" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="-30" y="140" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="&lt;h1&gt;Animation Loop&lt;/h1&gt;&lt;div&gt;The animation loop is on the browser and acts as a &quot;thread safe&quot; loop to reflect changes to the Zodiac engine backend. It collects all events in the document into a format that Zodiac can parse quickly and operate on.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The events are looped through in the order that they were activated by the user.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The frame method in the Zodiac engine returns another list of events that can be operated on by the browser to modify the page.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-440" y="80" width="280" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="Element Properties" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="150" y="140" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="On Event" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="330" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="On Event" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="370" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="On Event" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="410" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="&lt;h1&gt;Reactivity&lt;/h1&gt;&lt;div&gt;When a reactive() or derived() variable is updated, it emits an event to update derived types, but it also updates attributes and text content that reference the variable in the DOM. The variable is inserted into each attribute and text content. An arena allocator is created at the start of the frame to manage these short-lived strings, and are all freed by the start of the next frame, once the DOM has been updated.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-440" y="400" width="280" height="190" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
